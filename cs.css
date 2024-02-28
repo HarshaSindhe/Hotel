@@ -1,0 +1,57 @@
+body{
+margin:0;
+padding:0;
+font-family:century gothic;
+}
+
+
+header{
+background-image:url(lo.jpg);
+height:100vh;
+background-size:cover;
+background-position:center;
+}
+ul{
+float:right;
+list-style-type:none;
+}
+
+
+
+ul li{
+display:inline-block;
+}
+
+
+ul li a{
+text-decoration:bold;
+font-size:30px
+color:black;
+padding:5px 65px;
+border:1px solid blue;
+transition:0.6s ease;
+}
+
+
+ul li a:hover{
+color:red;
+background-color:white;
+}
+
+ul li.active a{
+background-color:white;
+}
+
+.logo{
+float:left;
+width:50px;
+height:30px;
+}
+
+.bg{
+background-color:red;
+}
+
+
+
+
