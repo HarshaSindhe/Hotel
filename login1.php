@@ -162,7 +162,7 @@ header{
 	    	
 	    <a href="new_user.php"> New User?</a>	<br>
        <pre>
-       <a href="admin.php">ADMIN LOGIN? CLICK HERE
+       <a href="admin.php">ADMIN LOGIN? CLICK THERE
        </a>
     </pre>
 </center>
