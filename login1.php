@@ -149,7 +149,7 @@ header{
 <body >
 	<div class="loginbox">
 
-	  	<h2>Hellooooooooooooooooooooooooooooooooooo</h2>
+	  	<h2>ooooooo</h2>
 	  
 	  <form action="" method="POST">
 	    <p>User Name</p>
